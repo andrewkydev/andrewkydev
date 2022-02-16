@@ -24,5 +24,5 @@ You can contact me on any social network or by email.
 — [VKontakte-bot](https://vk.com/miaa_bot)
 
 ## Other:
-![](https://github-readme-stats.vercel.app/api?username=andrewkydev1&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkydev1&theme=dark&langs_count=10&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=andrewkydev&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkydev&theme=dark&langs_count=10&layout=compact&hide_border=true)
