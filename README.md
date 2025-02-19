@@ -13,7 +13,7 @@ You can contact me on any social network or by email.
 
 — [VK](https://vk.com/id498281739)
 
-— Email: me.belaev.andrew@gmail.com
+— Email:
 
 ## My projects:
 — At the moment I don't have any open projects that I'm working on.
