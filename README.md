@@ -16,12 +16,7 @@ You can contact me on any social network or by email.
 — Email: me.belaev.andrew@gmail.com
 
 ## My projects:
-— [Mcpe server](vk.com/bunnycraft_mc_pe)
-
-— [Mcpe server](vk.com/mysteryworld_mc_pe)
-
-
-— [VKontakte-bot](https://vk.com/miaa_bot)
+##At the moment I don't have any open projects that I'm working on.
 
 ## Other:
 ![](https://github-readme-stats.vercel.app/api?username=andrewkydev&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
