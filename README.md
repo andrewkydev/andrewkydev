@@ -2,7 +2,7 @@
 
 How are you? 🧐 I'm fine, let's tell you about myself ⚡️:
 
-— I'm coding on PHP, Python, JS, React, C++
+— I'm coding on PHP, TS, Golang, C++
 
 
 — I like different music 🎵
