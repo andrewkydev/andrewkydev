@@ -25,5 +25,5 @@ You can contact me on any social network or by email.
   [Vkontakte Group](https://vk.com/andromedaindustries)
 
 ## Other:
-![](https://github-readme-stats.vercel.app/api?username=andrewkydev&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewkydev)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewkydev&theme=dark&langs_count=10&layout=compact&hide_border=true)
